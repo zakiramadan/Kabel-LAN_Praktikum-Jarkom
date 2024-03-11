@@ -8,7 +8,7 @@ Membuat kabel LAN sendiri adalah keterampilan dasar yang berguna dalam jaringan 
 
 - Kabel Ethernet (Cat5, Cat5e, Cat6, dll.)
 
-![App Screenshot](</Image/Kabel%20Ethernet%20(Cat5,%20Cat5e,%20Cat6,%20dll.).jpg>)
+![App Screenshot](</Image/Kabel%20Ethernet%20(Cat5,%20Cat5e,%20Cat6,%20dll.).jpg)
 
 - RJ-45 konektor
 
